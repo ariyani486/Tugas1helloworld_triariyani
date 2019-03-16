@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<center>
+<h1>"HelloWorld"</h1>
+<body bgcolor="yellow">
+
+<?php
+echo "HelloWorld!";
+?>
+</center>
+</body>
+</html>
